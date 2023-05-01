@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **blake.alderink@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1VAqdwe7k2gzxa1FmJLPtLFBWD7-mz7vHmQxS8YB8ops/edit?usp=sharing](https://docs.google.com/document/d/1VAqdwe7k2gzxa1FmJLPtLFBWD7-mz7vHmQxS8YB8ops/edit?usp=sharing)
+- 📄 Contact me at blake.alderink@gmail.com or on LinkedIn if you would like to learn more about me or see my resume!
 
 - ⚡ Fun fact **6 months ago I didn't know the first thing about coding, now I cannot get enough of it.**
 
